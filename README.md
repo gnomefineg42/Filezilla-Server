@@ -206,4 +206,4 @@ FileZilla Server is fully free to use with all features and updates included. Th
 Take advantage of this **official FileZilla Server free download** to enhance your file-sharing capabilities today!
 
 ---
-**Last updated:** 2026-10-31 22:17:45 UTC
+**Last updated:** 2026-11-01 01:44:56 UTC
